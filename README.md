@@ -6,7 +6,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Victor3425&show_icons=true&theme=onedark)
 
-## Tegnologias que eu uso no meu dia
+## Tecnologias que eu uso no meu dia
 
 <div style= "display: inline_block"><br/>
 <img aling= "center" alt= "Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
