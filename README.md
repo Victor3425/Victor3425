@@ -4,7 +4,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-rodrigues-silva-43a83b21/)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Victor3425&show_icons=true&theme=onedark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Victor3425&show_icons=true&theme=radical)
 
 ## Tecnologias que eu uso no meu dia
 
